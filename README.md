@@ -5,6 +5,10 @@ Metin'den mp3 olarak ses dosyasına dönüştürme. Toplu olarak yazılmış met
 -Programın dizin içerisine yazdığınızisim.mp3 şeklinde sese dönüşmüş isimleriniz kaydedilecek.<br>
 -Lütfen isimleri tamamen küçük harflerle yazınız, büyük harf kullanımı kütüphaneden kaynaklı türkçe karakter sorunları yaratıyor.<br>
 -Ben 500 isme kadar denedim ve sorunsuz oluşturdu.
+# Örnek Resimler
+![1](https://github.com/omergokce/text-to-speech-multi/assets/12425630/908460b5-d9d2-4ed4-80a4-cb6b5aee4c66) <br>
+![2](https://github.com/omergokce/text-to-speech-multi/assets/12425630/afd60ea9-20ec-48f6-b443-07f25d7fe556)
+
 
 
 
