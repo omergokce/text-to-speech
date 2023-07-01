@@ -1,0 +1,7 @@
+*NOT: isimlerin hepsi küçük harflerle yazılmalı, büyük yazılınca türkçe karakter sorunu yaşanıyor.
+muhammet arda zengin
+faruk bilgin
+ömer gökçe
+faik aşama
+filiz gönen
+esila yılmaz
